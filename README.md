@@ -9,4 +9,4 @@ To run in ghci:
 
 What the functions do is commented in the code.
 
-I have also included an example of using Javca in a functional programming style i.e. no variables and side effects
+I have also included an example of using Javca in a functional programming style i.e. no variables and side effects. This simple Java program counts the number of consonants and vowels in an input string. It works for strings that coinsist of lower-case letters [a-z].
